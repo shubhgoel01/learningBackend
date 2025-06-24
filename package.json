@@ -1,0 +1,15 @@
+{
+  "name": "firstbackend",
+  "version": "1.0.0",
+  "description": "learning how to deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "shubh goel",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
